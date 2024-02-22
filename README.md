@@ -20,7 +20,7 @@ With TailAdmin, you get access to all the necessary dashboard UI components, ele
 - 120+ Dashboard UI Components.
 - 200+ Total UI Elements.
 - 45+ HTML Files
-- All Essential Elements and Files
+- All Essential Elements and Files.
 - Full Figma Design Source - As Shown on Demo
 
 ___
