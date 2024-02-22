@@ -18,7 +18,7 @@ With TailAdmin, you get access to all the necessary dashboard UI components, ele
 #### [TailAdmin React PRO](https://react-demo.tailadmin.com/)
 - 4 Unique Dashboards: Analytics, Ecommerce, Marketing, and CRM (More will be added)
 - 120+ Dashboard UI Components.
-- 200+ Total UI Elements
+- 200+ Total UI Elements.
 - 45+ HTML Files
 - All Essential Elements and Files
 - Full Figma Design Source - As Shown on Demo
